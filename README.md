@@ -3,7 +3,7 @@
 
 **Link to project:** https://booksprout.netlify.app//
 
-![alt tag](https://booksprout.netlify.app/)
+![Image of the website. Three different backgrounds. The first are of open books with white pages on green grass. The second is a bookshelf with mostly young adult title.](https://github.com/BreaBang/BookRecommenderAPI/blob/main/API.gif.gif)
 
 ## How It's Made:
 
