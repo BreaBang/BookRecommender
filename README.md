@@ -1,4 +1,4 @@
-# Book Recommender API (AKA Find a Book)
+# Book Recommender APP (AKA Find a Book)
  This is a basic API made up of objects and pushed to Heroku. By searching a word, it brings up a book title, author, genre and summary. It might not be that useful to other users since it's all books and words that I chose myself and not associated with any lists or specific groups. It is a fun project to share with friends, co-workers and family members who like to read.
  
  Libraries, book stores or book-related content creators could use a similar API and client side search on their websites. 
