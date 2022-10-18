@@ -11,13 +11,11 @@
 
 **Tech used:** HTML, CSS, JavaScript, Express, Node and Heroku.
 
-I created my own server using node and express JS. Then so other people could access the API, I pushed it to Heroku.
+I created my own server using node and express JS and pushed it to Heroku.
 
-The API is made up of objects. 
+I ended up adapting a template for the layout of the site. I need to learn more about designing. The first two attempts at doing my own layout were functional but it was not a very appealing site.
 
-I ended up adapting a template for the layout of the site. I need to learn more about designing. THe first two attempts at doing my own layout were functional but it was not a very appealing site.
-
-The original input item in the template was an email submission box. I adapted it to instead pull from the API. This is why the mobile layout gets a little funky. It wasn't designed to host the response text. 
+The original input item in the template was an email submission box. I adapted it to instead pull from the book list array. This is why the mobile layout gets a little funky. It wasn't designed to host the response text. 
 
 ## Lessons Learned:
 
